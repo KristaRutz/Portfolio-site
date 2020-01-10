@@ -19,9 +19,29 @@
   text-transform: uppercase;
 }
 
-#headerImage {
+.heading img {
   margin: 10px;
   max-width: 200px;
+  border-radius: 50%;
+}
+
+.pageHeading {
+  text-align: center;
+  margin: 60px 0px 0px 0px;
+  background-color: white;
+  text-transform: lowercase;
+  text-align: right;
+}
+
+.pageHeading h1 {
+  font-size: 40px;
+  margin: 10px 0px 0px 0px;
+  text-transform: uppercase;
+}
+
+.pageHeading img {
+  margin: 10px;
+  max-width: 100px;
   border-radius: 50%;
 }
 
