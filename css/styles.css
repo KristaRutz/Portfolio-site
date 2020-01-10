@@ -1,0 +1,21 @@
+#headerImage {
+  max-width: 200px;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.pageTitle {
+  background-color: antiquewhite;
+}
+
+.aboutSection {
+ background-color: azure;
+}
+
+.portfolioItem {
+  background-color: blanchedalmond;
+}
+
+body {
+  background-color: cornsilk;
+}
