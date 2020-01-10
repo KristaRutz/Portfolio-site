@@ -1,11 +1,21 @@
+.heading {
+  text-align: center;
+}
+
+.heading h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
 #headerImage {
   max-width: 200px;
   border-radius: 100%;
-  text-align: center;
 }
 
 .pageTitle {
   background-color: antiquewhite;
+  text-transform: uppercase;
+  font-family: Helvetica;
 }
 
 .aboutSection {
@@ -18,4 +28,8 @@
 
 body {
   background-color: cornsilk;
+}
+
+.portfolio {
+  background-color: black;
 }
