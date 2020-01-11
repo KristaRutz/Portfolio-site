@@ -1,0 +1,67 @@
+
+.navigation {
+  margin: -20px;
+  padding: 25px;
+  background-color: #ffffff;
+  box-shadow: 0px 25px 20px #ffffff;
+}
+
+.heading {
+  text-align: center;
+  margin: 60px 0px 100px 0px;
+  background-color: white;
+  text-transform: lowercase;
+}
+
+.heading h1 {
+  font-size: 40px;
+  margin: 30px 0px 0px 0px;
+  text-transform: uppercase;
+}
+
+.heading img {
+  margin: 10px;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.pageHeading {
+  text-align: center;
+  margin: 60px 0px 0px 0px;
+  background-color: white;
+  text-transform: lowercase;
+  text-align: right;
+}
+
+.pageHeading h1 {
+  font-size: 40px;
+  margin: 10px 0px 0px 0px;
+  text-transform: uppercase;
+}
+
+.pageHeading img {
+  margin: 10px;
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.aboutSection {
+  margin: 0px 30px 0px 30px;
+}
+
+.aboutSection img {
+  width: 200px;
+  border: solid;
+  border-color: red;
+  border-width: 10px;
+  float: left;
+}
+
+body {
+  background-color: cornsilk;
+  padding-top: 70px;
+}
+
+.portfolio {
+  background-color: black;
+}
