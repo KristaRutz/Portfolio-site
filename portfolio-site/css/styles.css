@@ -45,19 +45,16 @@
   border-radius: 50%;
 }
 
+.aboutSection {
+  margin: 0px 30px 0px 30px;
+}
+
 .aboutSection img {
   width: 200px;
   border: solid;
-  border-color: #eee;
+  border-color: red;
   border-width: 10px;
   float: left;
-  margin: 0px 16px 12px 100px;
-}
-
-.aboutSection p {
-  font-style: italic;
-  text-align: justify;
-  margin: 0px 100px 12px 0px;
 }
 
 body {
