@@ -1,20 +1,36 @@
-README
+# _Portfolio Site_
+#### _A website to display my software development skills and portfolio, updated Jan 10, 2020_
 
-Writing programming interview questions hasn't made me rich yet ... so I might give up and start trading Apple stocks all day instead.
+#### By _**Krista Rutz**_
 
-First, I wanna know how much money I could have made yesterday if I'd been trading Apple stocks all day.
+## Description
 
-So I grabbed Apple's stock prices from yesterday and put them in an array called stockPrices, where:
+_This code creates a webpage to display my portfolio, an "About" profile, and links to my online work and social media. It can be viewed on [GitHub pages](https://github.com/KristaRutz/Portfolio-site)._
 
-The indices are the time (in minutes) past trade opening time, which was 9:30am local time.
-The values are the price (in US dollars) of one share of Apple stock at that time.
-So if the stock cost $500 at 10:30am, that means stockPrices[60] = 500.
+## Setup/Installation Requirements
 
-Write an efficient function that takes stockPrices and returns the best profit I could have made from one purchase and one sale of one share of Apple stock yesterday.
+* _Open the GitHub pages link_
 
-For example:
+or
 
-  const stockPrices = [10, 7, 5, 8, 11, 9];
+* _Clone this repository_
+* _Open the index.html file in a browser_
 
-getMaxProfit(stockPrices);
-// Returns 6 (buying for $5 and selling for $11)
+## Known Bugs
+
+No known bugs. Some links are currently disabled while the website is in beta.
+
+## Support and contact details
+
+Please contact me if you run into any issues or have questions, ideas or concerns.  I can be contacted at <krista.rutz@pomona.edu>. _Contributions to the code are encouraged!_
+
+## Technologies Used
+
+* HTML, CSS, and JS
+* Responsive design using Bootstrap framework
+
+### License
+
+*This software is licensed under the MIT license*
+
+Copyright (c) 2020 **_Krista Rutz_**
