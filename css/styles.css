@@ -46,11 +46,15 @@
 }
 
 .aboutSection {
- background-color: azure;
+  margin: 0px 30px 0px 30px;
 }
 
-.portfolioItem {
-  background-color: blanchedalmond;
+.aboutSection img {
+  width: 200px;
+  border: solid;
+  border-color: red;
+  border-width: 10px;
+  float: left;
 }
 
 body {
