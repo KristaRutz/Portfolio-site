@@ -5,7 +5,7 @@
 
 ## Description
 
-_This code creates a webpage to display my portfolio, an "About" profile, and links to my online work and social media. It can be viewed on [GitHub pages](https://github.com/KristaRutz/Portfolio-site)._
+_This code creates a webpage to display my portfolio, an "About" profile, and links to my online work and social media. It can be viewed on [GitHub pages](https://kristarutz.github.io/Portfolio-site/)._
 
 ## Setup/Installation Requirements
 
