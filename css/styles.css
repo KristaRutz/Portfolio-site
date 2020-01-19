@@ -44,6 +44,24 @@
   max-width: 100px;
   border-radius: 50%;
 }
+/* 
+.portfolioTable {
+  display: table;
+  width: 100%;
+}
+
+.portfolioCol {
+  display: table-column;
+} */
+
+.portfolioTable {
+  display: flex;
+  flex-wrap: wrap;
+}
+.portfolioCol {
+  height: 100%;
+  padding-bottom: 15px;
+}
 
 .aboutSection img {
   width: 300px;
